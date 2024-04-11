@@ -1,0 +1,36 @@
+id,age,sex,info_dx_2,scid_initial_dx_2
+1.0,10.0,1.0,Major depressive disorder and dysthymia,Schizoaffective
+2.0,15.0,2.0,Depression and addiction,"Psychosis, Posttraumatic stress disorder, dysthymia"
+3.0,14.0,2.0,Substance use,major depression
+4.0,18.0,1.0,Anxiety,Major depressive disorder
+5.0,19.0,1.0,Major depressive disorder,Major depressive disorder with psychotic symptoms
+6.0,20.0,2.0,Major depressive disorder,Generalized anxiety disorder; Major depressive disorder
+7.0,1.0,2.0,Schizophrenia,Major depressive disorder; Generalized anxiety disorder
+8.0,4.0,2.0,ADHD,Depression
+9.0,5.0,1.0,Substance use,Apparently sane
+10.0,6.0,1.0,alcohol consumption,Depression
+11.0,78.0,2.0,ADHD,"Schizophrenia, social phobia"
+12.0,33.0,1.0,ADHD,Depression with psychotic symptoms
+13.0,2.0,1.0,ADHD,History of major depressive disorder
+14.0,9.0,2.0,Generalized anxiety disorder,Apparently sane
+15.0,13.0,2.0,Depression,Not evaluated.
+16.0,45.0,2.0,major depression,"Major depressive disorder, substance use"
+17.0,24.0,2.0,Major depressive disorder with psychotic symptoms,"Psychotic symptoms prior to the onset of substance use, dysthymia and substance abuse"
+18.0,28.0,1.0,Depression,Possible Anxiety Disorder
+19.0,44.0,1.0,Post-traumatic stress disorder,Depressive symptoms
+20.0,67.0,2.0,SCHIZOPHRENIA,"Major Depressive Disorder, Generalized Anxiety Disorder and Post-Traumatic Stress Disorder."
+21.0,90.0,1.0,"Dysthymia, Post-Traumatic Stress Disorder",Oppositional defiant disorder ADHD major depressive disorder
+22.0,10.0,1.0,Substance use,Anxiety disorder
+23.0,4.0,2.0,Major Depression,Paranoid schizophrenia
+24.0,1.0,1.0,Schizophreniform disorder,Dysthymia
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
