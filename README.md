@@ -3,6 +3,7 @@
 1.	Anaconda should be installed for this to work. Open a terminal window. Navigate to the directory where you would like to run this (it should include the python script and the csv with the columns that you want to translate) then create a new conda environment: 
 
    cd /emma/work/translation 
+   
    conda create --name translate python=3.9 pandas tqdm pip
 
 2.	Activate your conda environment:
